@@ -1,0 +1,90 @@
+#a = 5
+#b = 3
+#a, b = 5, 3
+#a, b = b, a
+#
+#print(a,b)
+
+#a, b = 5, 3
+#a, b = b, a 
+#print(a,b)
+#t = Ahoj 
+
+#a, b = 5, 3
+#a, b = b, a 
+#c = a + b 
+#print(c)
+
+
+#value_a = 5
+#print(type(value_a))
+#value_b = 3
+#value_c = value_a > value_b
+#print(value_a, value_b, value_c)
+
+#value_a = 5
+#value_b = 3
+#value_c = value_a > value_b
+#print(type(value_c))
+#print(value_a, value_b, value_c)
+
+#value_a = float (5)
+#value_b = 3
+#value_c = value_a > value_b
+#print(type(value_c))
+#print(value_a, value_b, value_c)
+
+#salek_1 = "čaj"
+#salek_2 = "voda"
+#print(salek_1, salek_2)
+#pomocny_salek = salek_1
+#salek_1 = salek_2
+#salek_2 = pomocny_salek
+#
+#print(salek_1, salek_2)
+
+#salek_1 = "čaj"
+#salek_2 = "voda"
+#print(salek_1, salek_2)
+#
+#salek_1, salek_2 = salek_2, salek_1
+#
+#print(salek_1, salek_2)
+
+#def sectiCisla(parametr_a, parametr_b):
+#    return parametr_a + parametr_b
+
+#soucet_cisel = sectiCisla(-91263, 109251)
+#print(soucet_cisel)
+
+#spojeni_retezcu = sectiCisla("Cauky ", "Mnauky")
+#print(spojeni_retezcu)
+
+#pis = print
+#pis("Ahoj")
+
+#def obsahKruhu(polomer):
+ #   r = abs(float(polomer))
+  #  return polomer * polomer * 3.14
+#
+#def obvodKruhu(polomer):
+ #   r = abs(float(polomer))
+  #  return polomer * 2 * 3.14
+#
+#s = obsahKruhu(-1)
+#print(s)
+#
+#o = obvodKruhu(-1)
+#print(o)
+
+#def spočítej_obsah_trojúhelníku(základna, výška):
+# if základna < 0 or výška < 0:
+#   print("Základna a výška musí být kladné!")
+#   return
+# obsah = 0.5 * základna * výška
+# print(f"Obsah trojúhelníku je {obsah:.2f}")
+#
+#základna = float(input("Zadej základnu trojúhelníku: "))
+#výška = float(input("Zadej výšku trojúhelníku: "))
+#
+#spočítej_obsah_trojúhelníku(základna, výška)
